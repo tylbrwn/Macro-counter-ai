@@ -1,6 +1,8 @@
 # Macronutrients-counter-ai
 IT Project 
 
+In this project we are going to make an AI Macronutrient counter. The goal is to have be able to put food in front of a camera and have the model recognize the food and use OpenAI to find the macronutrients and light up designated lights to signal if the food has the recommended amount of protein, carbohydrates or fats.
+
     Train food recognition model:
 
 - Teachable machine (https://teachablemachine.withgoogle.com/train)
